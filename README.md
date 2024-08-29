@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Docker, C, SQL, js, React** //
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/biplab-saha/biplab-saha/issues)**
+💬 Ask me about **Node.js, React, C, SQL... or anything [here](https://github.com/biplab-saha/biplab-saha/issues)**
 
 ⚡ Fun fact **🚀📱 Smartphones have more code than NASA’s moon landing computers.**
 
