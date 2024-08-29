@@ -11,7 +11,7 @@
  
  🔭 I’m currently fresher
  
- 🌱 I’m currently learning **Docker, Supabase, AWS, js, React**
+ 🌱 I’m currently learning **Docker, C, SQL, js, React** //
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/biplab-saha/biplab-saha/issues)**
 
